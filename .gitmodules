@@ -1,0 +1,12 @@
+[submodule "src/modules/Multi-view-People-Detection-in-Large-Scenes-via-Supervised-View-wise-Contribution-Weighting"]
+	path = src/modules/Multi-view-People-Detection-in-Large-Scenes-via-Supervised-View-wise-Contribution-Weighting
+	url = https://github.com/zqyq/Multi-view-People-Detection-in-Large-Scenes-via-Supervised-View-wise-Contribution-Weighting.git
+[submodule "src/modules/MVDet"]
+	path = src/modules/MVDet
+	url = https://github.com/hou-yz/MVDet.git
+[submodule "src/modules/MultiviewX"]
+	path = src/modules/MultiviewX
+	url = https://github.com/hou-yz/MultiviewX.git
+[submodule "src/modules/MVDeTr"]
+	path = src/modules/MVDeTr
+	url = https://github.com/hou-yz/MVDeTr.git
